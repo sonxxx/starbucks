@@ -534,7 +534,6 @@ header .badges .badge {
 }
 .youtube .youtube__area {
   width: 1920px;
-  background-color: orange;
   position: absolute;
   left: 50%;
   margin-left: calc(1920px / -2);
@@ -565,7 +564,7 @@ header .badges .badge {
   left: 0;
 }
 .youtube .inner {
-  height: 700px;
+  height: inherit;
 }
 .youtube .floating1 {
   position: absolute;
